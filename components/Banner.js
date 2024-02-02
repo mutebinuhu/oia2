@@ -14,7 +14,7 @@ const Banner = () => {
                <div className=''>
                <div className=''>
                <Button href="#Listing"  className='bg-[#006B8D] rounded-6xl  text-lg py-2 mt-4 ' children="View Listing"/>
-                <Button href="#contact" className='border border-gray-800 text-lg text-gray-500 py-2 mt-4 mx-3' children="Contact us"/>
+                <Button href="#contact" className='border border-gray-800 text-lg text-black py-2 mt-4 mx-3' children="Contact us"/>
                </div>
 
                </div>
