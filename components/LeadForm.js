@@ -78,7 +78,7 @@ const LeadForm = () => {
         </div>
        
         <div className="text-center">
-          <Button children="Submit" className=' bg-[#006B8D] w-full'/>
+          <Button children="Submit" className=' bg-[#006B8D] text-white w-full'/>
         </div>
       </form>
     </div>

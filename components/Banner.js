@@ -13,8 +13,8 @@ const Banner = () => {
                 <p className='text-4xl font-medium mt-4'>4-6 Bedroom Villas Available for sale, Hurry before they are all taken</p>
                <div className=''>
                <div className=''>
-               <Button href="#Listing"  className='bg-[#006B8D] rounded-6xl  text-lg py-2 mt-4 ' children="View Listing"/>
-                <Button href="#contact" className='border border-gray-800 text-lg text-black py-2 mt-4 mx-3' children="Contact us"/>
+               <Button href="#Listing"  className='bg-[#006B8D] text-white rounded-6xl  text-lg py-2 mt-4 ' children="View Listing"/>
+                <Button href="#contact" className='border border-gray-800 text-black  text-lg py-2 mt-4 mx-3' children="Contact us"/>
                </div>
 
                </div>

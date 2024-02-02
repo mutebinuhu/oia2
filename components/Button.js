@@ -10,7 +10,7 @@ const Button = ({ onClick, href, children, className = '', ...rest }) => {
       whileHover={{ scale: 1.05 }}
       whileTap={{ scale: 0.95 }}
       onClick={onClick}
-      className={` text-white font-bold py-2 px-6 rounded-3xl ${className}`}
+      className={` font-bold py-2 px-6 rounded-3xl ${className}`}
       {...rest}
      
     >

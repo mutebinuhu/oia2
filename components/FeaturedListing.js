@@ -29,7 +29,7 @@ const FeaturedListing = ({imageUrl, handleClick}) => {
           <span>{apartmentDetails.area} sqft</span>
         </div>
         <p className="text-lg font-bold text-blue-500">{apartmentDetails.price}</p>
-        <Button onClick={handleClick}   className='bg-[#006B8D] rounded-6xl  text-lg py-2 mt-4 ' children="Book Visit"/>
+        <Button onClick={handleClick}   className='bg-[#006B8D] text-white rounded-6xl  text-lg py-2 mt-4 ' children="Book Visit"/>
 
       </div>
     </div>
